@@ -16,7 +16,7 @@ Example
 >>> from pystamp import format_like
 >>> import datetime
 >>>
->>> example = date(2010, 10, 10)
+>>> example = datetime.date(2010, 10, 10)
 >>> format_like(example, "March 10, 2010")
 >>> "October 10, 2010"
 ```
