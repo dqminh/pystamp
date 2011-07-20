@@ -13,7 +13,7 @@ Example
 
 ```python
 
->>> from pystamp import format_like
+>>> from pystamp.pystamp import format_like
 >>> import datetime
 >>>
 >>> example = datetime.date(2010, 10, 10)
