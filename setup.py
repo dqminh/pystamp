@@ -8,7 +8,7 @@ datetime formatting for human. This is a fork on
 Links
 `````
 
-* `documentation <https://github.com/dqminh`_
+* `documentation <https://github.com/dqminh>`_
 * `development version
   <https://github.com/dqminh/pystamp#egg=pystamp-dev>`_
 """
