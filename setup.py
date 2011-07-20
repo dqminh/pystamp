@@ -3,12 +3,12 @@ Pystamp
 -----------
 
 datetime formatting for human. This is a fork on
-`https://github.com/jeremyw/stamp`_ , written in Python
+https://github.com/jeremyw/stamp , written in Python
 
 Links
 `````
 
-* `documentation <https://github.com/dqminh>`_
+* `documentation <https://github.com/dqminh/pystamp>`_
 * `development version
   <https://github.com/dqminh/pystamp#egg=pystamp-dev>`_
 """
